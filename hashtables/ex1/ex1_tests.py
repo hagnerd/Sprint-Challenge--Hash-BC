@@ -1,6 +1,6 @@
 import unittest
 
-from ex1 import get_indices_of_item_weights
+from ex1 import (get_indices_of_item_weights, print_answer)
 
 
 class TestEx1(unittest.TestCase):
